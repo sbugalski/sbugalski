@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👋 Hi there, I'm Stanislaw Bugalski! 
+
+I'm a Senior Cloud Engineer ☁, Azure Certified. Furthermore that I'm Microsoft technology enthusiast, specialist in Azure and automation. I love to help others.
+For some reason I have an ability to look broadly, which makes me easier to understand other people and issues.
+
+--- 
+
+## 🌌 Get in touch 
+
+- Linkedin: [https://www.linkedin.com/in/stanislaw-bugalski/](https://www.linkedin.com/in/stanislaw-bugalski/)
+- Blog: [https://blog.bugalski.pro/](https://blog.bugalski.pro/)

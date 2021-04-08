@@ -26,4 +26,4 @@ For some reason I have an ability to look broadly, which makes me easier to unde
 
 - Linkedin: [https://www.linkedin.com/in/stanislaw-bugalski/](https://www.linkedin.com/in/stanislaw-bugalski/)
 - Blog: [https://blog.bugalski.pro/](https://blog.bugalski.pro/)
-- [Kurs Azure DevOps](kursazuredevops.pl)
+- My Azure DevOps course: [Kurs Azure DevOps](https://kursazuredevops.pl)

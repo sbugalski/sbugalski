@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 ## 👋 Hi there, I'm Stanislaw Bugalski! 
 
-I'm a Senior Cloud Engineer ☁, Azure Certified. Furthermore that I'm Microsoft technology enthusiast, specialist in Azure and automation. I love to help others.
-For some reason I have an ability to look broadly, which makes me easier to understand other people and issues.
-
+I am experienced qualified Tech Lead. 
+Over the past 5 years, I have  gained knowledge and experience in the areas of DevOps, Azure Cloud ☁️
+I have established track record of leading teams, coordinating work, achieving technical excellence and executing successful projects. My strong abilities to align technical solutions with business requirements, optimize performance and ensure seamless integration help me with that.
+In addition I am developing sales skills, interpersonal skills, learning psychology and how the brain works 🧠
 --- 
 
 ## 🌌 Get in touch 

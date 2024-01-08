@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## 👋 Hi there, I'm Stanislaw Bugalski! 
 
-I am experienced qualified Tech Lead. 
-Over the past 5 years, I have  gained knowledge and experience in the areas of DevOps, Azure Cloud ☁️
-I have established track record of leading teams, coordinating work, achieving technical excellence and executing successful projects. My strong abilities to align technical solutions with business requirements, optimize performance and ensure seamless integration help me with that.
+I am experienced qualified Tech Lead. <br>
+Over the past 6 years, I have  gained knowledge and experience in the areas of DevOps, Azure Cloud ☁️<br>
+I have established track record of leading teams, coordinating work, achieving technical excellence and executing successful projects. My strong abilities to align technical solutions with business requirements, optimize performance and ensure seamless integration help me with that.<br>
 In addition I am developing sales skills, interpersonal skills, learning psychology and how the brain works 🧠
 --- 
 
